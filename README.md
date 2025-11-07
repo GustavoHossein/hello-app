@@ -257,7 +257,7 @@ git push origin main
 ---
 
 ## ⚙️ Link Da Criação do Repositório e Arquivos Manifests
-[Repositório Manifests](https://github.com/gustavohossein/hello-manifests/blob/main/README.md##️-github---crie-o-repositório---hello-manifests)
+- [Repositório Manifests](https://github.com/gustavohossein/hello-manifests/blob/main/README.md##️-github---crie-o-repositório---hello-manifests)
 ---
 
 ## ⚙️ Instalar e Configurar ArgoCD"
