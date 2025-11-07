@@ -260,7 +260,7 @@ git push origin main
 - [Repositório Manifests](https://github.com/gustavohossein/hello-manifests/blob/main/README.md##️-github---crie-o-repositório---hello-manifests)
 ---
 
-## ⚙️ Instalar e Configurar ArgoCD"
+## ⚙️ Instalar e Configurar ArgoCD
 ``` bash
 # Verificar se os Kubernetes estão rodando, caso não esteja, (abrir o Rancher Desktop)
 kubectl get nodes
