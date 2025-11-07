@@ -72,13 +72,13 @@ brew install python
 
 - https://rancherdesktop.io/
 
-![Virtualização](../img/virtualizacao.jpeg)
+![Virtualização](img/virtualizacao.jpeg)
 
-![Configuração de Hardware](../img/config-hardware.jpeg)
+![Configuração de Hardware](/img/config-hardware.jpeg)
 
-![Ativar Container](../img/ativar-container.jpeg)
+![Ativar Container](/img/ativar-container.jpeg)
 
-![Ativar Kubernets](../img/enable-Kubernets.jpeg)
+![Ativar Kubernets](/img/enable-Kubernets.jpeg)
 
 
 - Configure Rancher Desktop com Kubernetes habilitado:
@@ -428,15 +428,15 @@ http://localhost:8081
 
 **Print de referência da tela do DockerHub:**
 
-![Tela DockerHub](../img/dockerhub-1.jpeg)
+![Tela DockerHub](/img/dockerhub-1.jpeg)
 
 **Print de referência da tela do Argo:**
 
-![Tela Argo](../img/argo-1.jpeg)
+![Tela Argo](/img/argo-1.jpeg)
 
-**Print de referência da tela do DockerHub:**
+**Print de referência da tela do Resultado:**
 
-![Resultado do Projeto](../img/resultado-1.jpeg)
+![Resultado do Projeto](/img/resultado-1.jpeg)
 
 ## ✅ Após concluir o projeto, alterar o conteúdo da aplicação para validação automática:
 - No **terminal**, entre novamente na **pasta hello-app** e **edite o arquivo main.py** e **cole o código abaixo**
@@ -470,18 +470,18 @@ async def info():
 
 **Print de referência da tela do DockerHub:**
 
-![Tela DockerHub atualizada](../img/dockerhub-2.jpeg)
+![Tela DockerHub atualizada](/img/dockerhub-2.jpeg)
 
 **Print de referência da tela do Argo:**
 
-![Tela Argo atualizada](../img/argo-2.jpeg)
+![Tela Argo atualizada](/img/argo-2.jpeg)
 
 **Print de referência da tela do GitHub Workflow:**
 
-![Tela GitHub atualizada](../img/workflow-atualizado.jpeg)
+![Tela GitHub atualizada](/img/workflow-atualizado.jpeg)
 
-**Print de referência da tela do DockerHub:**
+**Print de referência da tela do Resultado Final:**
 
-![Resultado do Projeto após nova feature](../img/resultado-2.jpeg)
+![Resultado do Projeto após nova feature](./img/resultado-2.jpeg)
 
 
