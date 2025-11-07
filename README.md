@@ -46,6 +46,7 @@ Automatizar todo o ciclo de vida de uma aplicação **FastAPI**:
 - [⚙️ Criar a aplicação FastAPI](#️-criar-a-aplicação-fastapi)
 - [⚙️ GitHub - Docker - SSH -> Criar "Secrets"](#️-github---docker---ssh---criar-secrets)
 - [⚙️ Criar WorkFlow do GitHub Actions](#️-criar-workflow-do-github-actions)
+- [⚙️ Repositório Manifests](#️-link-da-criação-do-repositório-e-arquivos-manifests)
 - [⚙️ Instalar e Configurar ArgoCD](#️-instalar-e-configurar-argocd)
 - [⚙️ Acessar o ArgoCD](#️-acessar-o-argocd)
 - [✅ Testar a Aplicação](#-testar-a-aplicação)
@@ -253,6 +254,10 @@ git commit -m "Add GitHub Actions CI/CD workflow"
 git push origin main
 ```
 
+---
+
+## ⚙️ Link Da Criação do Repositório e Arquivos Manifests
+[Repositório Manifests](https://github.com/gustavohossein/hello-manifests/blob/main/README.md##️-github---crie-o-repositório---hello-manifests)
 ---
 
 ## ⚙️ Instalar e Configurar ArgoCD"
